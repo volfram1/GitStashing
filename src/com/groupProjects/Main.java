@@ -12,5 +12,8 @@ public class Main {
         audi.regNo="tuzik";
 
 
-    }
+        System.out.println("welcome to my car");
+        System.out.println("the radio is set to 80MHZ");
+        System.out.println("turn on the air conditioner");
+    } 
 }
